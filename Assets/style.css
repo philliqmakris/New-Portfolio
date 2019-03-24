@@ -1,0 +1,91 @@
+.auth-image {
+    height: 400px;
+    width: 400px;
+}
+
+.name {
+    font-size: 79px;
+    color: rgb(0, 238, 255);
+    padding-top: 10px;
+
+}
+
+body {
+    font-family: 'Poiret One', cursive;
+    background-image: url("https://i.imgur.com/1mE59qh.jpg");
+    background-size: 1550px;
+    color: rgb(236, 236, 236);
+    background-attachment: fixed;
+}
+
+.container {
+    border: solid;
+    border-color: rgba(0, 0, 0, 0);
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.74);
+    margin-top:30px;
+    padding-top: 0px;
+    margin-bottom: 15px;
+    border-radius:.55rem!important;
+}
+
+.para {
+    font-size: 25px;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    position: relative;
+    /* float: right; */
+}
+
+.nav-link {
+    font-size: 25px;
+    color: black;
+    position: relative;
+    /* float: right; */
+    display: inline;
+}
+
+.navbar {
+    background-image: url("https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif");
+    color: rgb(231, 231, 231);
+    background-size: 5000px;
+    
+    
+}
+
+#port {
+    color: rgb(235, 235, 235);
+    position: relative;
+    font-size: 26px;
+    
+}
+
+.navbar-nav {
+    position: relative;
+    /* float: right; */
+}
+
+.collapse {
+    position: relative;
+    /* float: right; */
+}
+
+.port1 {
+    color: white; 
+}
+
+.whatever {
+    width: 100%;
+    text-align: right;
+}
+
+b {
+    color: white;
+}
+
+#main {
+    color: rgb(0, 238, 255);
+}

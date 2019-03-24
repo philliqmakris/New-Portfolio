@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poiret One', cursive;
+    background-image: url("https://i.imgur.com/1mE59qh.jpg");
+    background-size: 1540px;
+    color: rgb(236, 236, 236);
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.container {
+    border: solid;
+    border-color: black;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.712);
+    margin-top:30px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius:.55rem!important
+
+}
+
+.title {
+    font-size: 80px;
+    color: rgb(0, 238, 255);
+}
+
+.cat  {
+    height: 290px;
+    width: 300px;
+}
+
+.trivia, .gif, .gifvia {
+    height: 280px;
+    width: 300px;
+}
+
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+.nav-link {
+    font-size: 25px;
+    color: rgb(226, 226, 226);
+    
+    font-size: 25px;
+    color: black;
+    position: relative;
+        
+    display: inline;
+    
+    
+}
+
+.navbar {
+    background-image: url("https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif");
+    color: rgb(231, 231, 231);
+    background-size: 5000px;
+}
+
+#port {
+    color: rgb(235, 235, 235);
+    position: relative;
+    font-size: 26px;
+    
+}
+
+.port1 {
+    color: white; 
+}
+
+#porta {
+    font-size: 50px;
+}
+
+.whatever {
+    width: 100%;
+    text-align: right;
+}
+
+#main {
+    color: rgb(236, 236, 236);
+}
+b {
+    color: white;
+}
+
+#portee {
+    color: rgb(0, 238, 255);
+}
+
+#portaa {
+    font-size: 45px;
+}
+
