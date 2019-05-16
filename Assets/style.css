@@ -89,3 +89,8 @@ b {
 #main {
     color: rgb(0, 238, 255);
 }
+
+.skull {
+    height: 200px;
+    width: 200px;
+}
