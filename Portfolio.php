@@ -85,7 +85,7 @@
 
     <div class="row">
       <div class="col-md-12">
-        <a target="_blank" href="https://github.com/philliqmakris/GifTastic"><img class="skull"
+        <a target="_blank" href="https://gearraider.herokuapp.com/index.html"><img class="skull"
             src="https://rfclipart.com/image2/big/8c-fe-e0/black-and-white-sketch-of-skull-and-headphones-Download-Royalty-free-Vector-File-EPS-309059.jpg"></a>
         <h1><a id="porta" target="_blank" href="https://github.com/philliqmakris/GifTastic">Gear Raider</a></h2>
       </div>
