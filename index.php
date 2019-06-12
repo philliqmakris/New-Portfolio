@@ -13,7 +13,7 @@
 <body>
         <div class="navbar navbar-expand-lg navbar-light bg-light">
           <div>
-                <a class="navbar-brand" href="index.html"><div class="port1"><b id="main">Phillip Makris      </b>|</div></a> 
+                <a class="navbar-brand" href="index.php"><div class="port1"><b id="main">Phillip Makris      </b>|</div></a> 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
@@ -21,8 +21,8 @@
               </div>
                 <div class="whatever" id="navbarSupportedContent">
                   <span>
-                    <a id="port" class="nav-link port" href="Portfolio.html"><b>Portfolio&nbsp&nbsp</b>      |</a>
-                    <a id="port" class="nav-link port" href="Contact.html"><b>Contact&nbsp&nbsp</b>      |</a>
+                    <a id="port" class="nav-link port" href="Portfolio.php"><b>Portfolio&nbsp&nbsp</b>      |</a>
+                    <a id="port" class="nav-link port" href="Contact.php"><b>Contact&nbsp&nbsp</b>      |</a>
                   </span>
                   <!-- <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
